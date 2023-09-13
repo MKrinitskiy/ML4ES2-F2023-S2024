@@ -15,7 +15,7 @@ Deep Learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://sai
 | Title | Date | Topic | Content |
 | ----- | ---- | ----- | ------- |
 |       |      | I семестр |    |
-| Лекция 1 | 12.09.2023 | Основы нейросетевых моделей в машинном обучении: повторение. | [материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect01)<br />[видезапись](https://ml4es.ru/links/ml4es2-Lect01-2023-09-12) |
+| Лекция 1 | 12.09.2023 | Основы нейросетевых моделей в машинном обучении: повторение. | [материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect01)<br />[видезапись](https://ml4es.ru/links/ML4ES2-2023-Lect01-2023-09-12) |
 
 
 
