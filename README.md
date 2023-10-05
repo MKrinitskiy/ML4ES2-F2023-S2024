@@ -18,6 +18,7 @@ Deep Learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://sai
 | Лекция 1 | 12.09.2023 | Основы нейросетевых моделей в машинном обучении: повторение. | [материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect01)<br />[видезапись](https://ml4es.ru/links/ML4ES2-2023-Lect01-2023-09-12) |
 | Лекция 2 | 19.09.2023 | Оптимизация параметрических моделей. Градиентный спуск (GD) | [материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect02)<br />[видезапись](https://ml4es.ru/links/ML4ES2-2023-Lect02-2023-09-19) |
 | Лекция 3 | 26.09.2023 | Оптимизация параметрических моделей. Стохастический градиентный спуск (SGD) | [материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect03)<br />[видезапись](https://ml4es.ru/links/ML4ES2-2023-Lect03-2023-09-26) |
+| Лекция 4 | 05.10.2023 | Метод автоматического вычисления градиентов сложных функций.<br />Backpropagation | [материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect04)<br />[видезапись](https://ml4es.ru/links/DL4ES-2023-10-05-Lect04) |
 
 
 
