@@ -22,6 +22,7 @@ Deep Learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://sai
 | ДЗ №1 | 17.10.2023<br />дедлайн: **31.10.2023** | Домашнее задание на тему<br />"Обучение модели линейной регресии методом градиентного спуска" | [материалы ДЗ](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/HW01) |
 | Лекция 5 | 20.10.2023 | Автоматическое дифференцирование сложных функций: программная реализация на примере ДЗ №1 | [материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect05)<br />[видезапись](https://ml4es.ru/links/DL4ES-2023-10-20-Lect05) |
 | Семинар 6 | 03.11.2023 | Особенности ДЗ №1<br />Основы объектно-ориентированного программирования | [материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect06)<br />[видезапись](https://ml4es.ru/links/2023-11-03-DL4ES-Lect06) |
+| Лекция 7 | 17.11.2023 | Современные алгоритмы стохастической градиентной оптимизации. | [материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect07)<br />[видезапись](https://ml4es.ru/links/DL4ES-2023-11-17-Lect07) |
 
 
 
