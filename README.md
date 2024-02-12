@@ -25,6 +25,7 @@ Deep Learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://sai
 | Лекция 7 | 17.11.2023 | Современные алгоритмы стохастической градиентной оптимизации. | [материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect07)<br />[видезапись](https://ml4es.ru/links/DL4ES-2023-11-17-Lect07) |
 | Лекция 8 | 24.11.2023 | Pytorch для построения и оптимизации нейросетей.<br />Tensorboard для диагностики и мониторинга процесса обучения нейросетей. | [видеозапись-1 (по материалам 2022 г.)](https://ml4es.ru/links/ML4ES2-2022-Lect07)<br />[видеозапись-2 (по материалам 2022 г.)](https://ml4es.ru/links/ML4ES2-2022-Lect08)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect08) |
 | ДЗ №2 | 28.11.2023<br />**дедлайн 15.12.2023** | Домашнее задание на тему<br />"Реализация многослойного перцептрона на numpy" | [материалы ДЗ](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/HW02) |
+| Лекция 9 | 08.12.2023 | Свойства ландшафта функции потерь.<br />Способы регулирования свойств ландшафта. | [видезапись](https://ml4es.ru/links/2023-12-08-DL4ES-Lect09) |
 
 
 
