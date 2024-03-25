@@ -28,10 +28,10 @@ Deep Learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://sai
 | Лекция 9 | 08.12.2023 | Свойства ландшафта функции потерь.<br />Способы регулирования свойств ландшафта. | [видезапись](https://ml4es.ru/links/2023-12-08-DL4ES-Lect09)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect09) |
 |  |  | II семестр |  |
 | Лекция 10 | 20.02.2024 | Роль начального приближения в оптимизации глубоких нейросетей<br />Дисперсия карт активаций | [видезапись](https://ml4es.ru/links/DL4ES-2024-02-20-Lect10)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect10) |
-| Лекция 11 | 03.03.2024 | Начальное приближение в оптимизации глубоких нейросетей<br />Варианты инициализаций. | [видезапись](https://ml4es.ru/links/DL4ES-2024-03-03-Lect11) |
-| Лекция 12 |  |  | [видезапись](https://ml4es.ru/links/DL4ES-2024-03-12-Lect12) |
-| Лекция 13 |  |  | [видезапись](https://ml4es.ru/links/DL4ES-2024-03-15-Lect13) |
-| Лекция 14 |  |  | [видезапись](https://ml4es.ru/links/DL4ES-2024-03-22-Lect14) |
+| Лекция 11 | 03.03.2024 | Начальное приближение в оптимизации глубоких нейросетей<br />Варианты инициализаций. | [видезапись](https://ml4es.ru/links/DL4ES-2024-03-03-Lect11)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect11) |
+| Лекция 12 | 12.03.2024 | Инициализация нейросети;<br />пакетная нормализация (batch normalization);<br />искусственное дополнение данных (data augmentation) | [видезапись](https://ml4es.ru/links/DL4ES-2024-03-12-Lect12)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect12) |
+| Лекция 13 | 15.03.2024 | Пакетная нормализация данных;<br />искусственное дополнение данных (data augmentation);<br />практика: TensorBoard для диагностики обучения нейросетей. | [видезапись](https://ml4es.ru/links/DL4ES-2024-03-15-Lect13)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect13) |
+| Лекция 14 | 22.03.2024 | Пакетная нормализация<br />Прореживание<br />вопросы потребления памяти | [видезапись](https://ml4es.ru/links/DL4ES-2024-03-22-Lect14)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect14) |
 
 
 
