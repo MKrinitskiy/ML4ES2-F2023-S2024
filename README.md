@@ -32,6 +32,10 @@ Deep Learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://sai
 | Лекция 12 | 12.03.2024 | Инициализация нейросети;<br />пакетная нормализация (batch normalization);<br />искусственное дополнение данных (data augmentation) | [видезапись](https://ml4es.ru/links/DL4ES-2024-03-12-Lect12)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect12) |
 | Лекция 13 | 15.03.2024 | Пакетная нормализация данных;<br />искусственное дополнение данных (data augmentation);<br />практика: TensorBoard для диагностики обучения нейросетей. | [видезапись](https://ml4es.ru/links/DL4ES-2024-03-15-Lect13)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect13) |
 | Лекция 14 | 22.03.2024 | Пакетная нормализация<br />Прореживание<br />вопросы потребления памяти | [видезапись](https://ml4es.ru/links/DL4ES-2024-03-22-Lect14)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect14) |
+| Лекция 15 | 29.03.2024 | Функции активации | [видезапись](https://ml4es.ru/links/DL4ES-2024-03-29-Lect15)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect15) |
+| Лекция 16 | 05.04.2024 | Основы сверточных сетей | [видезапись](https://ml4es.ru/links/DL4ES-2024-04-05-Lect16)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect16) |
+| Лекция 17 | 19.04.2024 | Варианты свёрточных операций | [видезапись](https://ml4es.ru/links/DL4ES-2024-04-19-Lect17)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect17) |
+| Лекция 18 | 26.04.2024 | Свёрточная нейронная сеть: конфигурирование, оптимизация, применение. | [видезапись](https://ml4es.ru/links/DL4ES-2024-04-26-Lect18)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect18) |
 
 
 
