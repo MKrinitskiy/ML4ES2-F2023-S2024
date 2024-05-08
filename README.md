@@ -36,6 +36,7 @@ Deep Learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://sai
 | Лекция 16 | 05.04.2024 | Основы сверточных сетей | [видезапись](https://ml4es.ru/links/DL4ES-2024-04-05-Lect16)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect16) |
 | Лекция 17 | 19.04.2024 | Варианты свёрточных операций | [видезапись](https://ml4es.ru/links/DL4ES-2024-04-19-Lect17)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect17) |
 | Лекция 18 | 26.04.2024 | Свёрточная нейронная сеть: конфигурирование, оптимизация, применение. | [видезапись](https://ml4es.ru/links/DL4ES-2024-04-26-Lect18)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect18) |
+| Лекция 19 | 03.05.2024 | Интерпретация и визуализация сверточных нейронных сетей | [видезапись](https://ml4es.ru/links/DL4ES-2024-05-03-Lect19)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2023-S2024/tree/master/Lect19) |
 
 
 
